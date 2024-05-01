@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for viewing
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+It is a Simple donor website you can download it from here,just unzip the design files and it is ready for work
+
+Thanks
+Growing Innovators
